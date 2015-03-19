@@ -1,5 +1,7 @@
+# github testing
 #grouping the countries into income status and HDI rank
 #think about more on whether to predict or what can we say about HDI?
+
 
 library(ggplot2)
 hdi<-read.csv(file ="C:/Users/Kaylee/Documents/MA882/project/dataset compiled.csv", header=T)
